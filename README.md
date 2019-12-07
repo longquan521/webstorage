@@ -1,2 +1,2 @@
 # webstorage
-# webstorage
+localstorage和sessionstorage的区别
